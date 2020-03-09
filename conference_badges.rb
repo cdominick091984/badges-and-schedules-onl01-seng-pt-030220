@@ -8,5 +8,4 @@ def batch_badge_creator(attendees)
       new_array.push("Hello, my name is #{name}.")
       new_array
     end
-    return new_array
 end
