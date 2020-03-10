@@ -18,6 +18,6 @@ def assign_rooms(attendees)
   return name_and_room_number
 end
 
-def printer(assign_rooms)
-  puts assign_rooms
+def printer(attendees)
+  
 end
