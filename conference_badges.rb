@@ -20,5 +20,5 @@ end
 
 def printer(attendees)
   batch = batch_badge_creator(attendees)
-  puts batch
+  puts batch[0]
 end
